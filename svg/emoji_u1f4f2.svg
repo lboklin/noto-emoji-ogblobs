@@ -1,1 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128"><defs><linearGradient xlink:href="#a" id="c" x1="64" y1="9.57" x2="64" y2="116.584" gradientUnits="userSpaceOnUse" gradientTransform="translate(33.28)"/><linearGradient id="a"><stop offset="0" stop-color="#3c48ff"/><stop offset="1" stop-color="#8bb6bb"/></linearGradient><radialGradient xlink:href="#b" id="d" cx="42.143" cy="6.368" fx="42.143" fy="6.368" r="1.639" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.89289 0 0 1.75554 -4.43 -4.7)"/><linearGradient id="b"><stop offset="0" stop-color="#282846"/><stop offset="1" stop-color="#1a4223" stop-opacity=".177"/></linearGradient></defs><rect width="60.56" height="121.55" x="67" y="3.22" rx="6.2" ry="2.1" fill="#181818" paint-order="stroke fill markers"/><path fill="url(#c)" paint-order="stroke fill markers" d="M68.589 9.57h57.383v107.014H68.589z"/><path d="M87.401 120.309h19.758M87.401 6.48h19.758" fill="none" fill-rule="evenodd" stroke="#282828" stroke-width="1.48" stroke-linecap="round" stroke-linejoin="round"/><text style="line-height:25px" x="76.911" y="35.97" font-weight="400" font-size="40" font-family="Sans" letter-spacing="0" word-spacing="0" opacity=".8" fill="#fff"><tspan x="76.911" y="35.97" style="-inkscape-font-specification:'Comic Neue'" font-size="17.333" font-family="Comic Neue">04:20</tspan></text><path fill-opacity=".402" stroke-width="1.48" paint-order="stroke fill markers" d="M68.589 109.738h57.383v6.846H68.589z"/><g transform="translate(33.28)" fill="none" fill-opacity=".402" stroke="#fff"><ellipse ry="1.278" rx="1.299" cy="113.161" cx="63.845" stroke-width=".38" paint-order="stroke fill markers"/><path transform="matrix(.59184 0 0 .6018 9.49 44.197)" d="M66.06 116.53l-3.348-1.934 3.349-1.933z" stroke-width=".637" stroke-linejoin="round" paint-order="stroke fill markers"/><path stroke-width=".38" stroke-linejoin="round" paint-order="stroke fill markers" d="M78.794 111.883h2.597v2.555h-2.597z"/></g><text style="line-height:25px" x="76.911" y="49.603" font-weight="400" font-size="40" font-family="Sans" letter-spacing="0" word-spacing="0" opacity=".8" fill="#fff"><tspan x="76.911" y="49.603" style="-inkscape-font-specification:'Comic Neue'" font-size="12" font-family="Comic Neue">17.07.</tspan></text><circle cx="75.342" cy="6.48" r="1.434" fill="url(#d)" paint-order="stroke fill markers"/><path d="M61.01 64L29.68 86.97V72.64H.44V55.5h29.24V41.03z" fill="#ed6c30"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<path fill="#ED6C30" d="M61.01,64L29.68,86.97V72.64H0.44V55.5h29.24V41.03L61.01,64z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#006CA2" d="M121.74,6.34c-4.24-1.9-16.62-3.11-24.47-3.11c-7.84,0-20.23,1.21-24.46,3.11
+				C68.67,8.2,67,11.87,67,15.33v97.34c0,3.46,1.67,7.13,5.82,8.99c4.23,1.9,16.62,3.11,24.46,3.11c7.85,0,20.23-1.21,24.47-3.11
+				c4.15-1.86,5.81-5.53,5.81-8.99V15.33C127.55,11.87,125.89,8.2,121.74,6.34z"/>
+			<path fill="#FFFFFF" d="M102.85,10.75H91.72c-0.58,0-1.04-0.46-1.04-1.04c0-0.57,0.46-1.04,1.04-1.04h11.13
+				c0.58,0,1.04,0.47,1.04,1.04C103.89,10.28,103.42,10.75,102.85,10.75z"/>
+			<circle fill="#FFFFFF" cx="117.17" cy="10.49" r="1.99"/>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="97.2783" y1="104.769" x2="97.2783" y2="22.7124">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#00A0D6"/>
+			</linearGradient>
+			<rect x="72.49" y="22.71" fill="url(#SVGID_1_)" width="49.57" height="82.06"/>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M81.65,108.93v0.7l-1.53-1.11l1.53-1.12v0.7v0h0.88c1.72,0,2.83,0.51,2.83,1.99c0,1.49-1.11,2-2.83,2
+				h-1.98v-0.83h1.98c1.46,0,2-0.32,2-1.17c0-0.84-0.53-1.16-2-1.16H81.65L81.65,108.93z"/>
+			<path fill="#FFFFFF" d="M100.19,111.81h-5.74v-2.9l2.87-1.21l2.87,1.21V111.81z M95.28,110.98h4.08v-1.52l-2.03-0.86l-2.04,0.86
+				V110.98z"/>
+			<g>
+				<path fill="#FFFFFF" d="M113.83,111.81h-4.8v-3.04h4.8V111.81z M109.86,110.98H113v-1.37h-3.14V110.98z"/>
+				<polygon fill="#FFFFFF" points="115.19,110.09 114.36,110.09 114.36,108.31 110.81,108.31 110.81,107.48 115.19,107.48 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
