@@ -10,3 +10,5 @@ Aside from the font family name being OGBlobs (rather than Blobmoji) I refer to 
 I welcome feedback and PR's but I don't plan on working on the set personally - I simply wanted these specific blobs.
 
 Blobs are best emojis and OG blobs are best blobs.
+
+![OGBlobs in Spectral](images/OGBlobs-in-Spectral.png)
