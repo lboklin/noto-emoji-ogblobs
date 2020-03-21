@@ -1,4 +1,4 @@
-{ stdenv, optipng, cairo, pythonPackages, pkgconfig,
+{ stdenv, optipng, cairo, python38Packages, pkgconfig,
 pngquant, which, imagemagick }:
 
 let version = "2019-07-01-original-blobs";
@@ -9,7 +9,7 @@ in stdenv.mkDerivation {
 
   buildInputs = [ cairo ];
   nativeBuildInputs = [ pngquant optipng which cairo pkgconfig imagemagick ]
-                  ++ (with pythonPackages; [ python fonttools nototools ]);
+                  ++ (with python38Packages; [ python fonttools nototools ]);
 
   postPatch = ''
     sed -i 's,^PNGQUANT :=.*,PNGQUANT := ${pngquant}/bin/pngquant,' Makefile
