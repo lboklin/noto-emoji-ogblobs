@@ -227,7 +227,7 @@ endif
 
 $(EMOJI).ttf: $(EMOJI).tmpl.ttf $(EMOJI_BUILDER) $(PUA_ADDER) \
 	$(ALL_COMPRESSED_FILES) | check_vs_adder
-	@python $(EMOJI_BUILDER) -V $< "$@" "$(COMPRESSED_DIR)/emoji_u"
+	@python $(EMOJI_BUILDER) -S -V $< "$@" "$(COMPRESSED_DIR)/emoji_u"
 	@python $(PUA_ADDER) "$@" "$@-with-pua"
 	@$(VS_ADDER) -vs 2640 2642 2695 --dstdir '.' -o "$@-with-pua-varsel" "$@-with-pua"
 	@mv "$@-with-pua-varsel" "$@"
